@@ -1,0 +1,6 @@
+[submodule "sports-day-client"]
+	path = sports-day-client
+	url = ./sports-day-client
+[submodule "sportsDay"]
+	path = sportsDay
+	url = ./sportsDay
